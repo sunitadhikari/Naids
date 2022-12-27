@@ -13,7 +13,7 @@
     position: absolute;
     width: 100%;
     height: 45px;
-    left: 650px;
+    left: 550px;
     top: 10px;
     font-family: 'Vollkorn';
     font-style: normal;
@@ -28,7 +28,7 @@
     position: absolute;
     width: 100%;
     height: 45px;
-    left: 720px;
+    left: 600px;
     top: 065px;
     font-family: 'Vollkorn';
     font-style: normal;
@@ -43,7 +43,6 @@
     position: relative;
     width: 100%;
     height: 480px;
-    /* background:rgb(137, 121, 121); */
     border-radius: 0px;
     background-color: rgb(234, 185, 185);
 }
@@ -51,8 +50,7 @@
     position: absolute;
     width: 908px;
     height: 52px;
-    left: 500px;
-    /* text-align: center; */
+    left: 350px;
     top: 100px;
     font-family: 'Roboto';
     font-style: normal;
@@ -65,7 +63,6 @@
     position: relative;
     width: 100%;
     height: 3250px;
-    /* background:rgb(137, 121, 121); */
     border-radius: 0px;
     background-color: rgb(115, 116, 123);
 }
@@ -73,7 +70,6 @@
     position: absolute;
     width: 770px;
     height: 470px;
-    /* background:rgb(137, 121, 121); */
     border-radius: 0px;
     left:150px;
     top:60px;
@@ -85,11 +81,9 @@
     position: absolute;
     width: 770px;
     height: 470px;
-    /* background:rgb(137, 121, 121); */
     border-radius: 0px;
     left:1000px;
-    top:60px;
-      
+    top:60px;  
 }
 .video2:hover {
     transform: scale(1.2); 
@@ -199,10 +193,8 @@
     position: absolute;
     width: 770px;
     height: 470px;
-    background-image: url("naid.png");
     /* background:rgb(137, 121, 121); */
     border-radius: 0px;
-    background: url("naid.png");
     left:600px;
     top:2700px;
 }
