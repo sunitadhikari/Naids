@@ -64,8 +64,15 @@
 .video{
     position: relative;
     width: 100%;
-    height: 180px;
+    height: 1080px;
     /* background:rgb(137, 121, 121); */
     border-radius: 0px;
-    background-color: rgb(147, 138, 138);
+    background-color: rgb(29, 58, 241);
+}
+.video1{
+    position: absolute;
+    width: 640px;
+    height: 360px;
+    /* background:rgb(137, 121, 121); */
+    border-radius: 0px;
 }
