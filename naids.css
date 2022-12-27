@@ -45,7 +45,7 @@
     height: 480px;
     /* background:rgb(137, 121, 121); */
     border-radius: 0px;
-    background-color: rgb(147, 138, 138);
+    background-color: rgb(234, 185, 185);
 }
 .naidsp{
     position: absolute;
@@ -67,12 +67,34 @@
     height: 1080px;
     /* background:rgb(137, 121, 121); */
     border-radius: 0px;
-    background-color: rgb(29, 58, 241);
+    background-color: rgb(115, 116, 123);
 }
 .video1{
     position: absolute;
-    width: 640px;
-    height: 360px;
+    width: 740px;
+    height: 460px;
     /* background:rgb(137, 121, 121); */
     border-radius: 0px;
+    left:150px;
+    top:50px;
+}
+.video2{
+    position: absolute;
+    width: 740px;
+    height: 460px;
+    /* background:rgb(137, 121, 121); */
+    border-radius: 0px;
+    left:1000px;
+    top:50px;
+      
+}
+.video3{
+    position: absolute;
+    width: 740px;
+    height: 460px;
+    /* background:rgb(137, 121, 121); */
+    border-radius: 0px;
+    left:1000px;
+    top:50px;
+      
 }
