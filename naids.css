@@ -5,3 +5,18 @@
     background:rgb(137, 121, 121);
     border-radius: 0px;
 }
+.naidh{
+    position: absolute;
+    width: 374px;
+    height: 45px;
+    /* left: 572px; */
+    top: 100px;
+    font-family: 'Vollkorn';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 45px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #0b0b0b;
+}
