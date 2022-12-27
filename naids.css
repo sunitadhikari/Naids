@@ -13,8 +13,8 @@
     position: absolute;
     width: 100%;
     height: 45px;
-    left: 250px;
-    top: 30px;
+    left: 650px;
+    top: 10px;
     font-family: 'Vollkorn';
     font-style: normal;
     font-weight: 800;
@@ -23,4 +23,27 @@
     /* text-align: center; */
     text-transform: capitalize;
     color: #0b0b0b;
+}
+.naidp{
+    position: absolute;
+    width: 100%;
+    height: 45px;
+    left: 720px;
+    top: 065px;
+    font-family: 'Vollkorn';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 45px;
+    /* text-align: center; */
+    text-transform: capitalize;
+    color: #0b0b0b;
+}
+.naidnex{
+    position: relative;
+    width: 100%px;
+    height: 480px;
+    /* background:rgb(137, 121, 121); */
+    border-radius: 0px;
+    background-color: rgb(162, 146, 146);
 }
