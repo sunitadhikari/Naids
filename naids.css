@@ -64,7 +64,7 @@
 .video{
     position: relative;
     width: 100%;
-    height: 1080px;
+    height: 3250px;
     /* background:rgb(137, 121, 121); */
     border-radius: 0px;
     background-color: rgb(115, 116, 123);
@@ -96,4 +96,80 @@
     border-radius: 0px;
     left:150px;
     top:580px;
+}
+.video4{
+    position: absolute;
+    width: 770px;
+    height: 470px;
+    /* background:rgb(137, 121, 121); */
+    border-radius: 0px;
+    left:1000px;
+    top:580px;
+      
+}
+.video5{
+    position: absolute;
+    width: 770px;
+    height: 470px;
+    /* background:rgb(137, 121, 121); */
+    border-radius: 0px;
+    left:150px;
+    top:1110px;
+}
+.video6{
+    position: absolute;
+    width: 770px;
+    height: 470px;
+    /* background:rgb(137, 121, 121); */
+    border-radius: 0px;
+    left:1000px;
+    top:1110px;
+      
+}
+.video7{
+    position: absolute;
+    width: 770px;
+    height: 470px;
+    /* background:rgb(137, 121, 121); */
+    border-radius: 0px;
+    left:150px;
+    top:1640px;
+}
+.video8{
+    position: absolute;
+    width: 770px;
+    height: 470px;
+    /* background:rgb(137, 121, 121); */
+    border-radius: 0px;
+    left:1000px;
+    top: 1640px;
+      
+}
+.video9{
+    position: absolute;
+    width: 770px;
+    height: 470px;
+    /* background:rgb(137, 121, 121); */
+    border-radius: 0px;
+    left:150px;
+    top:2170px;
+}
+.video10{
+    position: absolute;
+    width: 770px;
+    height: 470px;
+    /* background:rgb(137, 121, 121); */
+    border-radius: 0px;
+    left:1000px;
+    top:2170px;
+      
+}
+.video11{
+    position: absolute;
+    width: 770px;
+    height: 470px;
+    /* background:rgb(137, 121, 121); */
+    border-radius: 0px;
+    left:600px;
+    top:2700px;
 }
