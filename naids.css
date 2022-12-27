@@ -1,1 +1,7 @@
-
+.naidsmain{
+    position: relative;
+    width: 100%px;
+    height: 145px;
+    background: grey;
+    border-radius: 0px;
+}
