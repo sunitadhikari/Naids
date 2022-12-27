@@ -71,30 +71,29 @@
 }
 .video1{
     position: absolute;
-    width: 740px;
-    height: 460px;
+    width: 770px;
+    height: 470px;
     /* background:rgb(137, 121, 121); */
     border-radius: 0px;
     left:150px;
-    top:50px;
+    top:60px;
 }
 .video2{
     position: absolute;
-    width: 740px;
-    height: 460px;
+    width: 770px;
+    height: 470px;
     /* background:rgb(137, 121, 121); */
     border-radius: 0px;
     left:1000px;
-    top:50px;
+    top:60px;
       
 }
 .video3{
     position: absolute;
-    width: 740px;
-    height: 460px;
+    width: 770px;
+    height: 470px;
     /* background:rgb(137, 121, 121); */
     border-radius: 0px;
-    left:1000px;
-    top:50px;
-      
+    left:150px;
+    top:580px;
 }
