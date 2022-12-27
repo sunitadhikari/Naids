@@ -199,8 +199,10 @@
     position: absolute;
     width: 770px;
     height: 470px;
+    background-image: url("naid.png");
     /* background:rgb(137, 121, 121); */
     border-radius: 0px;
+    background: url("naid.png");
     left:600px;
     top:2700px;
 }
